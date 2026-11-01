@@ -63,7 +63,7 @@ Antes de instalar, confira se o seu console atende a estes pontos:
 
 ## 🚧 Status do Projeto
 
-O PSTORE2 está atualmente na **versão 0.6**, em desenvolvimento ativo. O download de jogos e aplicativos já está funcional; a equipe segue trabalhando em estabilidade, expansão do catálogo e otimizações para diferentes ambientes (emulador e hardware real).
+O PSTORE2 está atualmente na **versão 1.2**, em desenvolvimento ativo. O download de jogos e aplicativos já está funcional; e eu sigo trabalhando em estabilidade, expansão do catálogo e otimizações para diferentes ambientes (emulador e hardware real).
 
 ---
 
