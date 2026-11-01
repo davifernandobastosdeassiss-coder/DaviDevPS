@@ -67,13 +67,6 @@ O PSTORE2 está atualmente na **versão 0.6**, em desenvolvimento ativo. O downl
 
 ---
 
-## 🗓️ Histórico de versões
-
-| Versão | Destaques |
-|---|---|
-| **Alpha 0.1** | Primeira versão pública. Interface básica, downloads ainda desativados. |
-| **v0.6** | Downloads reais funcionando, 8 temas, perfil de usuário, busca por texto/letra, gerenciador de arquivos, aba de notícias e configurações expandidas. |
-
 ## 🗓️ O que esperar na próxima versão
 
 - **Catálogo expandido** — mais de 100 títulos clássicos disponíveis (Black, Call of Duty, e outros).
