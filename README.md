@@ -24,10 +24,6 @@ Antes de instalar, confira se o seu console atende a estes pontos:
 
 ---
 
-## 🆕 Novidades da v0.6
-
-A v0.6 é a atualização mais significativa lançada até hoje — é a primeira versão em que **o download real de jogos e apps funciona de ponta a ponta**, além de trazer uma reformulação quase completa da interface.
-
 - **Downloads reais pela rede** — conexão HTTP de verdade, com barra de progresso, velocidade estimada e tratamento de erro visível na tela (sem travar ou voltar ao menu sem explicação).
 - **8 temas visuais** — Escuro, Claro, Azul PS2, Verde Matrix, Roxo, Laranja, Cinza e Vermelho.
 - **Sistema de perfil** — nome de usuário, nível, experiência, histórico e lista de jogos recentes.
