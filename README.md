@@ -2,7 +2,7 @@
 
 **PSTORE2** é uma solução open-source para PlayStation 2 que permite baixar e instalar jogos e aplicativos homebrew diretamente pelo console — sem precisar tirar o pendrive ou HD da máquina toda vez que quiser adicionar algo novo.
 
-![Version](https://img.shields.io/badge/vers%C3%A3o-1.2-brightgreen)
+![Versão Atual](https://img.shields.io/badge/vers%C3%A3o-1.2-brightgreen)
 ![Platform](https://img.shields.io/badge/plataforma-PS2-blue)
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 
